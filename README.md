@@ -28,3 +28,10 @@
       month = {June},  
       year = {2020}  
     }
+    @article{li2021deep,
+  title={Deep hybrid 2-d-3-d CNN based on dual second-order attention with camera spectral sensitivity prior for spectral super-resolution},
+  author={Li, Jiaojiao and Wu, Chaoxiong and Song, Rui and Li, Yunsong and Xie, Weiying and He, Lihuo and Gao, Xinbo},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2021},
+  publisher={IEEE}
+}
