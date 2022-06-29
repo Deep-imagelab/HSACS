@@ -10,6 +10,7 @@
 - 'python evaluation.py' for the MRAE and RMSE scores.
 # Citation
 - If the the work or the code is helpful, please cite the paper:
+
     @article{li2021deep,
       title={Deep hybrid 2-d-3-d CNN based on dual second-order attention with camera spectral sensitivity prior for spectral super-resolution},
       author={Li, Jiaojiao and Wu, Chaoxiong and Song, Rui and Li, Yunsong and Xie, Weiying and He, Lihuo and Gao, Xinbo},
