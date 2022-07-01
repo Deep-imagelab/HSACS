@@ -1,4 +1,4 @@
-# Deep Hybrid 2-D-3-D CNN Based on Dual Second-Order Attention With Camera Spectral Sensitivity Prior for Spectral Super-Resolution
+# [Deep Hybrid 2-D-3-D CNN Based on Dual Second-Order Attention With Camera Spectral Sensitivity Prior for Spectral Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9506982)
 ## Environment
 - Ubuntu 16
 - Pytorch 1.6.0
